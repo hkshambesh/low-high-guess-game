@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessGame.ConsoleApp", "GuessGame.ConsoleApp\GuessGame.ConsoleApp.csproj", "{94B6AA9B-2B66-4168-A5FB-CD08DBD7D0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessGame.Tests", "GuessGame.Tests\GuessGame.Tests.csproj", "{B349E68A-02F4-422B-A943-B934BD95535F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B6AA9B-2B66-4168-A5FB-CD08DBD7D0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B6AA9B-2B66-4168-A5FB-CD08DBD7D0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B6AA9B-2B66-4168-A5FB-CD08DBD7D0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B6AA9B-2B66-4168-A5FB-CD08DBD7D0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B349E68A-02F4-422B-A943-B934BD95535F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B349E68A-02F4-422B-A943-B934BD95535F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B349E68A-02F4-422B-A943-B934BD95535F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B349E68A-02F4-422B-A943-B934BD95535F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

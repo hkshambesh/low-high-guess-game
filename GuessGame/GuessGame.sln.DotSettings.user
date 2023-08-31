@@ -1,0 +1,68 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/hkshambesh/Projects/arcablanca/GuessGame/packages/Microsoft.Bcl.AsyncInterfaces.7.0.0/lib/net462/Microsoft.Bcl.AsyncInterfaces.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/15.0/bin/MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">/usr/local/share/dotnet/dotnet</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0cc08a81_002D8871_002D4507_002D89aa_002D1f91c6745e73/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayerGuessCorrect_When_GameIsComputerMode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.ComputerGuessTests.PlayerGuessCorrect_When_GameIsComputerMode&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.ComputerGuessTests.PlayerGuessIsTooLow_When_GameIsComputerMode&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1009b358_002Dc7d9_002D476f_002Db8ef_002D1f0aafe25c5c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ComputerGuessCorrect_When_GameIsPlayerMode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.PlayerGuessTests.ComputerGuessCorrect_When_GameIsPlayerMode&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2fdf310c_002Ddfd7_002D4011_002Da653_002Dc7965d7511a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::4FA40DFB-950A-41FB-94F7-13B6449A51B7::.NETFramework,Version=v4.7.2::GuessGame.Tests.GameModeFactoryTests.CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4213c610_002D2919_002D4d34_002D9dcb_002Dd700f85c576f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PlayerGuessIsTooLow_When_GameIsComputerMode" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.PlayerGuessTests.ComputerGuessCorrect_When_GameIsPlayerMode&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=526bafaa_002Dc316_002D4cc6_002Da79b_002D612b7c422a6c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::23DD6232-C773-4343-BE35-C4885B2AEC1F::.NETFramework,Version=v4.8::GuessGameTests.GameModeFactoryTests.CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=64c64bd8_002De93b_002D4ecb_002Dbdb4_002D9b73007b110c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GameModeFactoryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.GameModeFactoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.GamePlayServiceTests.StartGame_When_AppExecuted&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.NumberGuessTests.LowHigh_Number_BySetRange&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.NumberGuessTests.GuessNumber_Generated_Within_SetRange&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.ComputerGuessTests.PlayerGuessCorrect_When_GameIsComputerMode&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=837d5067_002Dca21_002D4530_002Db278_002D8fdf825b2412/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.UnitTest1.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6382835_002D2d4d_002D4b01_002Db6c7_002Dfff9bcef8c8c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.GameModeFactoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.GamePlayServiceTests.Start_ComputerPlay_When_ComputerGameChoice_Is_Selected&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B349E68A-02F4-422B-A943-B934BD95535F::net7.0::GuessGame.Tests.GamePlayServiceTests.StartGame_When_AppExecuted&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=babfbd4c_002Df957_002D4405_002D9e38_002D84b45bb66fb4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::23DD6232-C773-4343-BE35-C4885B2AEC1F::.NETFramework,Version=v4.8::GuessGameTests.GameModeFactoryTests.CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bd92b411_002D839e_002D40df_002Daa5c_002D6ce51b2243fa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::4FA40DFB-950A-41FB-94F7-13B6449A51B7::.NETFramework,Version=v4.7.2::GuessGame.Tests.GameModeFactoryTests.CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0eea48c_002D5e2a_002D4d2c_002D9058_002Da72ea3fdd55d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::23DD6232-C773-4343-BE35-C4885B2AEC1F::.NETFramework,Version=v4.8::GuessGameTests.GameModeFactoryTests.CreateGameMode_Returns_ComputerGuesses_When_Choice_Is_One&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
